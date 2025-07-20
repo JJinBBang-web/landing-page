@@ -130,6 +130,11 @@ function App() {
             </p>
           </div>
         </div>
+        <div className="footer">
+          <p className="footerText">
+            이 페이지에는 토스팀에서 제공한 토스페이스가 적용되어 있습니다
+          </p>
+        </div>
       </div>
     </div>
   );
