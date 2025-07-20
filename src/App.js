@@ -10,7 +10,7 @@ import Frame2 from "./image/Frame2.webp";
 import Frame3 from "./image/Frame3.webp";
 import img3 from "./image/img3.webp";
 import Frame4 from "./image/Frame4.webp";
-import img4 from "./image/img4.svg";
+import img4 from "./image/img4.png";
 import Circle_Check1 from "./image/Circle_Check1.webp";
 
 function App() {
