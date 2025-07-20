@@ -1,17 +1,17 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
-import img1 from "./image/img1.webp";
-import Chat_Circle_Dots from "./image/Chat_Circle_Dots.webp";
-import Heart from "./image/Heart.webp";
-import Circle_Check from "./image/Circle_Check.webp";
-import img2 from "./image/img2.webp";
+import img1 from "./image/img1.png";
+import Chat_Circle_Dots from "./image/Chat_Circle_Dots.svg";
+import Heart from "./image/Heart.svg";
+import Circle_Check from "./image/Circle_Check.svg";
+import img2 from "./image/img2.png";
 import Frame1 from "./image/Frame1.png";
-import Frame2 from "./image/Frame2.webp";
-import Frame3 from "./image/Frame3.webp";
-import img3 from "./image/img3.webp";
-import Frame4 from "./image/Frame4.webp";
+import Frame2 from "./image/Frame2.png";
+import Frame3 from "./image/Frame3.png";
+import img3 from "./image/img3.png";
+import Frame4 from "./image/Frame4.png";
 import img4 from "./image/img4.png";
-import Circle_Check1 from "./image/Circle_Check1.webp";
+import Circle_Check1 from "./image/Circle_Check1.svg";
 
 function App() {
   useEffect(() => {
