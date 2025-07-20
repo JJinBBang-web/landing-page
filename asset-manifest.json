@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/landing-page/static/css/main.491d91af.css",
-    "main.js": "/landing-page/static/js/main.1df350da.js",
+    "main.js": "/landing-page/static/js/main.8c03d6ef.js",
     "static/js/453.15a375e2.chunk.js": "/landing-page/static/js/453.15a375e2.chunk.js",
     "static/media/img4.png": "/landing-page/static/media/img4.0a16785c771d33fdc2d8.png",
     "static/media/Frame1.png": "/landing-page/static/media/Frame1.0f779b15a0d51a1f1e2d.png",
+    "static/media/img1.png": "/landing-page/static/media/img1.3296ac40c5997647e4d1.png",
     "static/media/img2.webp": "/landing-page/static/media/img2.67df99efead5f7ea26cf.webp",
-    "static/media/img1.webp": "/landing-page/static/media/img1.547429c3c2817fe940b0.webp",
     "static/media/Frame2.webp": "/landing-page/static/media/Frame2.ddcbdc7951bb988880ca.webp",
     "static/media/Frame3.webp": "/landing-page/static/media/Frame3.e40bc3ed5be68e4ab050.webp",
     "static/media/Frame4.webp": "/landing-page/static/media/Frame4.f009c8c059fc7ba98711.webp",
@@ -17,11 +17,11 @@
     "static/media/Circle_Check1.webp": "/landing-page/static/media/Circle_Check1.6dcbdbbf9376a505f881.webp",
     "static/media/Heart.webp": "/landing-page/static/media/Heart.1231ab3457dabd09e683.webp",
     "main.491d91af.css.map": "/landing-page/static/css/main.491d91af.css.map",
-    "main.1df350da.js.map": "/landing-page/static/js/main.1df350da.js.map",
+    "main.8c03d6ef.js.map": "/landing-page/static/js/main.8c03d6ef.js.map",
     "453.15a375e2.chunk.js.map": "/landing-page/static/js/453.15a375e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.491d91af.css",
-    "static/js/main.1df350da.js"
+    "static/js/main.8c03d6ef.js"
   ]
 }
