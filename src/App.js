@@ -44,8 +44,7 @@ function App() {
           <div
             className="button1"
             onClick={() => {
-              window.location.href =
-                "https://docs.google.com/forms/d/e/1FAIpQLSda4yYFz7Wcss-NbSFri-gbzNj0oAKTYoVUrzrhtIBYyJWtlQ/viewform";
+              window.location.href = "https://forms.gle/7jYh6FGCnfNcqWAU6";
             }}
           >
             <img
@@ -53,17 +52,16 @@ function App() {
               src={Chat_Circle_Dots}
               alt="Chat_Circle_Dots"
             />
-            <p className="text1">문의하기</p>
+            <p className="text1">이벤트 참여하기</p>
           </div>
           <div
             className="button2"
             onClick={() => {
-              window.location.href =
-                "https://docs.google.com/forms/d/e/1FAIpQLScfIoZnJhLgKm1O2xV-0w9_WlC3BCB3AOFu2-Wrlvx6z5Wa3w/viewform";
+              window.location.href = "https://www.jjinbbang.kr/";
             }}
           >
             <img className="heart" src={Heart} alt="Heart" />
-            <p className="text2">후기 무료로 보기</p>
+            <p className="text2">서비스 이용하기</p>
           </div>
         </div>
         <div className="checkContainer">
@@ -83,8 +81,7 @@ function App() {
           <div
             className="button1"
             onClick={() => {
-              window.location.href =
-                "https://docs.google.com/forms/d/e/1FAIpQLSda4yYFz7Wcss-NbSFri-gbzNj0oAKTYoVUrzrhtIBYyJWtlQ/viewform";
+              window.location.href = "https://forms.gle/7jYh6FGCnfNcqWAU6";
             }}
           >
             <img
@@ -92,17 +89,16 @@ function App() {
               src={Chat_Circle_Dots}
               alt="Chat_Circle_Dots"
             />
-            <p className="text1">문의하기</p>
+            <p className="text1">이벤트 참여하기</p>
           </div>
           <div
             className="button2"
             onClick={() => {
-              window.location.href =
-                "https://docs.google.com/forms/d/e/1FAIpQLScfIoZnJhLgKm1O2xV-0w9_WlC3BCB3AOFu2-Wrlvx6z5Wa3w/viewform";
+              window.location.href = "https://www.jjinbbang.kr/";
             }}
           >
             <img className="heart" src={Heart} alt="Heart" />
-            <p className="text2">후기 무료로 보기</p>
+            <p className="text2">서비스 이용하기</p>
           </div>
         </div>
         <div className="checkContainer">
@@ -118,7 +114,7 @@ function App() {
             className="button3"
             onClick={() => {
               window.location.href =
-                "https://www.instagram.com/jjinbbang_gnu?igsh=MXU3aHdmNzd5cWRmMA==";
+                "https://www.instagram.com/jjinbbang_official?igsh=ZnVxMzUzbXlpdWU%3D&utm_source=qr";
             }}
           >
             <p className="text3">찐빵 인스타그램 공식 계정</p>
